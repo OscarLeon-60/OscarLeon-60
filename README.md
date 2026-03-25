@@ -1,6 +1,3 @@
-Nombre completo, cada letra inicial en Mayúscula: 
-Oscar Fabian Leon Triana****
- 
 <!--
 CONFIG
 FULL_NAME: Oscar Fabian Leon Triana
