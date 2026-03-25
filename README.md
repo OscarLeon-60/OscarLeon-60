@@ -154,7 +154,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 
 <div align="center" style="margin: 20px 0;">
   
-  <img src="https://streak-stats.demolab.com/?user=JerssonF&theme=radical&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=OscarLeon-60&theme=radical&hide_border=true" width="70%" />
   
 </div>
 
@@ -170,7 +170,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 
 <div align="center" style="margin-top: 20px;">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JerssonF&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OscarLeon-60&theme=radical&hide_border=true" width="100%" />
   
 </div>
 
@@ -182,7 +182,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=JerssonF&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OscarLeon-60&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
   
 </div>
 
